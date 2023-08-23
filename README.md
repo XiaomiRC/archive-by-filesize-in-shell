@@ -1,2 +1,3 @@
 # archive-by-filesize-in-shell
-Cron job to archive large files at a certain time of the day
+This is a Cron job to archive files larger than 10 MB at a certain time of the day
+
